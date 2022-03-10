@@ -1,6 +1,6 @@
 # CountdownTimer
 
-This is the countdown timer build in angular.
+This is the countdown timer build in angular, which sets to the particular date..
 
 
 # Setup
